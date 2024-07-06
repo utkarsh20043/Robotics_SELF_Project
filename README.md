@@ -19,7 +19,7 @@ If you have studied dijkstra's algorithm then this is a nice simulation for it's
 this algorithm has very important application in the field of robotics for path planning.
 
 c. 2-DOF manipulator and inverse kinematics:
-This code is to understand and implement inverse kinematics in a code. 2 DOF manipulator is taken just as an 
+This code is to visualize and implement inverse kinematics in a code. 2 DOF manipulator is taken just as an 
 example for demonstrating application of inverse kinematics.
 
 d. Inverse algebraic manipulator control:
