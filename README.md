@@ -1,3 +1,4 @@
+SELF PROJECT
 In this project I have focused on fundamentals of robotics and machine mechanisms.
 All these problems are in some way related to path planning at a very basic level.
 Aim of this project is to enhance understanding of following concepts:
